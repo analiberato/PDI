@@ -1,2 +1,17 @@
 # PDI
-Processamento Digital de Imagens - Filtros da média, mediana, vizinhança (estrela, cruz e quadrada), filtros morfológicos (erosão e dilatação), escala de cinza, negativa, segmentação, rotação, limiarização, equalização, histograma, segmentação 
+Processamento Digital de Imagens em SWT apresenta:
+
+    + Filtros da média, mediana, vizinhança (estrela, cruz e quadrada)
+    + Filtros morfológicos (erosão e dilatação)
+    + Escala de cinza
+    + Negativa
+    + Segmentação
+    + Rotação
+    + Limiarização
+    + Equalização
+    + Histograma
+    + Adição e subtração
+    + Demarcar imagem
+    + OpenCV
+
+
